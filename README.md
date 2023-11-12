@@ -22,7 +22,7 @@ This FiveM script allows players to rob cash registers in stores. Below is the s
 - Successful robbery: You will receive a notification and money.
 
 ### ToDo list
-- [ ] add police alart
+- [ ] add police alert
 - [ ] add skill check
 
 ### Dependencies
