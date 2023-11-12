@@ -1,4 +1,4 @@
-# sc_robbery
+# sk_robbery
 
 
 <html lang="en">
@@ -34,11 +34,11 @@ This FiveM script allows players to rob cash registers in stores. Below is the s
 ### How to install?
 Clone or download this repository
 
-Add sc_robbery to your resources directory
+Add sk_robbery to your resources directory
 
 Add this in your server.cfg :
 ```
-ensure sc_robbery
+ensure sk_robbery
 ```
 
 
