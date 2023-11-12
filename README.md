@@ -6,8 +6,8 @@
 </head>
 <body>
 <div class="image-container">
-  <img src="https://cdn.discordapp.com/attachments/431085459716964352/1173052293508243518/Screenshot_2023-11-12_011017.png?ex=65628d15&is=65501815&hm=9f1d3ddd4ad2ebd1ff18e9e1ff9636df0eba89a7e31270be3f97632ac8ea9625&" width="400" height="400">
-  <img src="https://cdn.discordapp.com/attachments/431085459716964352/1173052293084622878/Screenshot_2023-11-12_011033.png?ex=65628d14&is=65501814&hm=43ded4772da403e92bad9c437a4349b10cae9137069cc2714d2f6430fda96f7f&" width="400" height="400">
+  <img src="https://cdn.discordapp.com/attachments/431085459716964352/1173052293508243518/Screenshot_2023-11-12_011017.png?ex=65628d15&is=65501815&hm=9f1d3ddd4ad2ebd1ff18e9e1ff9636df0eba89a7e31270be3f97632ac8ea9625&" width="425" height="425">
+  <img src="https://cdn.discordapp.com/attachments/431085459716964352/1173052293084622878/Screenshot_2023-11-12_011033.png?ex=65628d14&is=65501814&hm=43ded4772da403e92bad9c437a4349b10cae9137069cc2714d2f6430fda96f7f&" width="425" height="425">
 </div>
 </body>
 </html>
