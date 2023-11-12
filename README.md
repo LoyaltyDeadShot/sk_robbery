@@ -21,6 +21,10 @@ This FiveM script allows players to rob cash registers in stores. Below is the s
 - Activate the context menu to start the robbery.
 - Successful robbery: You will receive a notification and money.
 
+### ToDo list
+- [ ] add police alart
+- [ ] add skill check
+
 ### Dependencies
 
 > [ESX-Framework](https://github.com/esx-framework)
